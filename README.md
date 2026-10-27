@@ -1,5 +1,9 @@
 # php-sockets
 
+<p align="center">
+  <img src=".github/logo.png" alt="php-sockets logo" width="128" />
+</p>
+
 Examples of network programming with the PHP sockets extension.
 
 ## Contents
